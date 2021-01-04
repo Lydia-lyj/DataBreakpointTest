@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ctElY8lg/sYCLbb+dv3ZMBkt+SLdtGlqnaGlc9hfAdzXY68xWQWLu/ADeL9C+DvTpl9xWhdBdfih/8YZVofk3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vsdiagtester\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vsdiagtester\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
